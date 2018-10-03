@@ -1,6 +1,17 @@
-.App {
-  text-align: center;
+/* .App {
+  position: absolute;
+  top: 0;
+  height: 400px;
+  left: 0;
+  width: 100%;
+} */
+.leaflet-container {
+  height: 400px;
+  width: 100%;
 }
+/* .map__reactleaflet {
+  flex: 1 0;
+} */
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
